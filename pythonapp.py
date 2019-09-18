@@ -1,5 +1,5 @@
 variabla = input("Shkruaj emrin zotnije: ")
 def funksioni(e):
-    print(e+" qyqyy")
+    print(e+" pse")
 
 funksioni(variabla)
