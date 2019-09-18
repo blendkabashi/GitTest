@@ -1,2 +1,2 @@
 readme file 
-ma i forti ktu
+ma i forti kush more
