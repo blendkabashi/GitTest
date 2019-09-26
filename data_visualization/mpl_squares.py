@@ -1,6 +1,5 @@
 import matplotlib.pyplot as plt
 
-
 x_poi = list(range(1, 5001))
 y_poi = [x**3 for x in x_poi]
 plt.scatter(x_poi, y_poi, c=y_poi, cmap=plt.cm.Reds,
